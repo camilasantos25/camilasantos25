@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩‍💻 Camila Santos
 
-<!--
-**camilasantos25/camilasantos25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tenho **18 anos** e sou de **São Paulo, Brasil**.  
+💻 Atualmente curso **Ciência da Computação** e sou apaixonada por tecnologia, programação e design.
 
-Here are some ideas to get you started:
+## 🌸 Sobre mim
+- 🌱 Sempre em busca de aprender novas ferramentas e melhorar minhas habilidades.
+- 💡 Interesses: **Desenvolvimento Web**, **Front-end**, **UX/UI Design** e **projetos criativos**.
+- 🎯 Objetivo: me tornar uma **Desenvolvedora Fullstack** e criar soluções inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</p>
+
+
